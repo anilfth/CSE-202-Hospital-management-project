@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 using namespace std;
-class all
+class all     ///*********//////
 {
  private:
   struct address
